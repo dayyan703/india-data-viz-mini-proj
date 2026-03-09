@@ -6,3 +6,5 @@ This is a mini project for visualizing data related to India.
 - `app.py`: Main application script
 - `india.csv`: Dataset file
 - `requirements.txt`: Python dependencies
+
+![alt text](image.png)
